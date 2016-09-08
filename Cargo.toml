@@ -1,0 +1,6 @@
+[package]
+name = "byte_sha"
+version = "0.1.0"
+authors = ["Tyrel Richey <ty.mu.tech.industries@gmail.com>"]
+
+[dependencies]
