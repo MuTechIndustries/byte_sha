@@ -1,6 +1,6 @@
 [package]
 name = "byte_sha"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Tyrel Richey <ty.mu.tech.industries@gmail.com>"]
 description = "Performs SHA256 on a Vec<u8> and returns a Vec<u8> as the result. Useful for cryto curencies and purhapse other things."
 documentation = "https://github.com/MuTechIndustries/byte_sha"
