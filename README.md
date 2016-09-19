@@ -2,9 +2,10 @@
 ## Purpose
 ByteSha is a rust crate that can perform SHA256 on a Vec<u8> and return a Vec<u8>
 ## Namespace
-ByteSha houses all functions at the top level of the crate. There are only three public functions and all are under the byte_sha namespace.
+ByteSha houses on function at the byte_sha namespace.
+
 ```rust
-let result: Vec<u8> = *sah256_of_message_as_u8_vec(&mut message);
+let result: Vec<u8> = *byte_sha::sha256_of_message_as_u8_vec(&mut message);
 ```
 ## Performing SHA256
 ```rust
