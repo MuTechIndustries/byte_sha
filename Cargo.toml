@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Tyrel Richey <ty.mu.tech.industries@gmail.com>"]
 
 [dependencies]
+hex_d_hex = "*"
